@@ -1,0 +1,128 @@
+.container{
+    margin:0 5% 5% 5%;
+    height:735px;
+    width:1212px;
+}
+
+.inner_box{
+    box-sizing: border-box;
+    display: inline-block;
+    overflow:hidden;
+}
+
+#top{
+    margin-bottom: 1.3%;
+    height: 45%;
+    width:100%;
+}
+#red{
+    height: 100%;
+    width:42.5%;
+    border-width:47px;
+    border-top-width:35px;
+    border-style:solid;
+    border-color: black;
+    background-color: #e73b05;
+    margin:0;
+}
+
+#blue{
+    height: 68%;
+    width:42.3%;
+    border-width:78px;
+    border-style:solid;
+    border-color: black;
+    background-color: #4005e7;
+    margin:0 1% 8.7% 2.8% ;
+}
+
+#orange{
+    height: 79%;
+    width:10.5%;
+    border-width:28px;
+    border-style:solid;
+    border-color: black;
+    background-color: #e79a04;
+    margin:2% 0 0 0 ;
+}
+
+#middle{
+    height: 45.5%;
+    width:100%;
+    display: flex;
+}
+
+#white{
+    height: 100%;
+    width:42.5%;
+    border-width:18px;
+    border-style:solid;
+    border-color: black;
+    background-color:white;
+}
+
+#lime-green{
+    height: 80%;
+    width:46%;
+    background-color:#22e71b;
+    margin:6.2% 27%;
+}
+
+#pastel-green{
+    height: 100%;
+    width:10.5%;
+    border-width:28px;
+    border-style:solid;
+    border-color: black;
+    background-color:#22e77a;
+    margin-left:9.5%;
+    margin-right:0;
+}
+
+#right{
+    height:100%;
+    width:37.15%;
+}
+#white-top{
+    height:39%;
+    width:100%;
+    border-width:4px;
+    border-style:solid;
+    border-color: black;
+    background-color:white;
+    margin-left:0;
+}
+
+#magenta{
+    height: 72%;
+    width:69%;
+    background-color:#e705b5;
+    margin:4% 16%;
+}
+
+#white-bottom{
+    height: 43%;
+    width:68%;
+    border-width:25px;
+    border-style:solid;
+    border-color: black;
+    background-color:white;
+    margin:7% 0 2% 32%;
+}
+
+#purple{
+    height: 100%;
+    width:80%;
+    background-color:#8407bf;
+    margin:0 10%;
+}
+
+#bottom{
+    width:100%;
+    height:12%;
+    border-width:28px;
+    border-style:solid;
+    border-color: black;
+    background-color: #e76405;
+    
+}
